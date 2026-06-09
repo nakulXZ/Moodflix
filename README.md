@@ -62,7 +62,7 @@ Moodflix/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Moodflix.git
+git clone https://github.com/nakulXZ/Moodflix.git
 cd Moodflix
 ```
 
