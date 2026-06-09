@@ -104,11 +104,10 @@ npm start
 
 ## 📸 Screenshots
 
-Add screenshots of:
 - Home Page
-- Mood Detection
-- Recommendation Dashboard
-- Chatbot Interface
+- <img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/33e564e2-3a06-4d3e-9ac3-ac0ae8a7ab4d" />
+
+  
 
 ## 🔮 Future Enhancements
 
